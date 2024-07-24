@@ -13,7 +13,7 @@
   </td>
   <td>
     
-  👨‍💻 All of my projects are available at here on GitHub
+  👨‍💻 All of my public projects are available here on GitHub
     
   </td>
   </tr>

@@ -2,6 +2,7 @@
 <h2 align="center">I am Pipeline Developer in the VFX, Games and Tech industry</h2>
   <p alignt="center">
     Here you will find a collection of my public repos that contain general pipeline, tooling, and web development related personal projects.
+    *Personal Portfolio Website built on Django coming soon !*
   </p>
   
 <table align="center">

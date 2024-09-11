@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm David Vega</h1>
 <h2 align="center">I am Pipeline Developer in the VFX, Games and Tech industry</h2>
-  <p alignt="center">
+  <p align="center">
     Here you will find a collection of my public repos that contain general pipeline, tooling, and web development related personal projects.
-    *Personal Portfolio Website built on Django coming soon !*
+    <b>Personal Portfolio Website built on Django coming soon !</b>
   </p>
   
 <table align="center">
